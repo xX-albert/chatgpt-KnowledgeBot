@@ -1,0 +1,22 @@
+{
+  "luolinai_api_key": "luolin:luolin-x1cvn2dzr6twxb8onbnr2jj0",
+  "luolinai_model_id": "649c3dd7e2ad3aadb2cbb7d8",
+   "base_url":"https://api.gojiberrys.cn/api/openapi",
+  "image_create_prefix": [
+    "画",
+    "看",
+    "找"
+  ],
+  "speech_recognition": false,
+  "group_speech_recognition": false,
+  "voice_reply_voice": false,
+  "conversation_max_tokens": 1000,
+  "expires_in_seconds": 3600,
+  "channel_type": "wechatcom_app",
+  "wechatcom_corp_id": "wwe2b63b9404f75fbf",
+  "wechatcomapp_secret": "YFYVRSKAx5Y65EFUGlZt6QesSydWu-3rhbUuaOwmcrE",
+  "wechatcomapp_agent_id": "1000002",
+  "wechatcomapp_token": "6qP58thz",
+  "wechatcomapp_aes_key": "uQ3BqZRvrLbbUdYe1TJHUgaHNFCku4c3OC32tYJ7wFi",
+  "wechatcomapp_port": 9200
+}
