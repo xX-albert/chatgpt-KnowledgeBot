@@ -10,3 +10,5 @@ mysql-connector-python
 pymongo
 web.py
 wechatpy
+cryptography
+Crypto
