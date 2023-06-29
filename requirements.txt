@@ -12,3 +12,4 @@ web.py
 wechatpy
 cryptography
 Crypto
+pysilk_mod>=1.6.0
