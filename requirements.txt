@@ -8,3 +8,4 @@ Pillow
 pre-commit
 mysql-connector-python
 pymongo
+web.py
